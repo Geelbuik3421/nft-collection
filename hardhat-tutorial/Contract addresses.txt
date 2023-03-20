@@ -5,3 +5,6 @@ https://nft-collection-wheat-gamma.vercel.app/
 Crypto Devs Contract Address: 0x4402C62616Fb1ebAB3D19662985E39D3b88d1526
 
 https://testnets.opensea.io/assets/goerli/0x4402C62616Fb1ebAB3D19662985E39D3b88d1526/1
+
+Crypto Devs Contract Address: 0x9e593a065E8e9D70f805f29c4423C69f25A94f0B
+
